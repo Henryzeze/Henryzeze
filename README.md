@@ -7,7 +7,8 @@
 - 📫 How to reach me: You can reach me via email at mailosaze@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/osaze-omonjahio-ba65855b/).
 - ⚡ Fun fact: I love to experiment with new recipes in my free time and often find interesting patterns between cooking and data analysis!
 
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 
 
