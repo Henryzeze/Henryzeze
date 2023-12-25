@@ -1,6 +1,8 @@
 ## Hi there 👋 Am a Data Analyst / Data Scientist
 
-![](data-analyst-play.jpg)
+[<img align="left" alt="Data Analyst Profile Video" src="data-analyst-play.jpg"/>](https://youtu.be/1QlIFjICxzA)
+
+.
 
 - 🔭 I’m currently working on honing my skills in Python for data analysis and machine learning. Also, I'm working on building a portfolio of data projects showcasing my abilities in handling diverse datasets and deriving insights.
 - 🌱 I’m currently learning advanced statistical methods and deep learning techniques to expand my knowledge base in data analysis and predictive modeling.
